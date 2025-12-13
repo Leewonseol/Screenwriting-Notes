@@ -1,0 +1,147 @@
+# Movie References
+
+## Title
+
+- 2001: A Space Odyssey
+- Accidental Tourist, The
+- After Hours
+- Alien
+- Aliens
+- Alive
+- All That Jazz
+- Amadeus
+- Animal House
+- Annie Hall
+- Apocalypse Now
+- Arachnophobia
+- Bad Day at Black Rock
+- Bad Timing
+- Bambi
+- Battleship Potemkin, The
+- Being There
+- Big Sleep, The
+- Black Widow
+- Blade Runner, The
+- Blazing Saddles
+- Blood of the Poet
+- Blow-Up
+- Blue Velvet
+- Body Heat
+- Bonfire of the Vanities, The
+- Brazil
+- Breakfast Club, The
+- Breathless
+- Bridge on the River Kwai, The
+- Bridges of Madison County, The
+- Bringing Up Baby
+- Bull Durham
+- Cabinet of Dr. Caligari, The
+- Cape Fear
+- Casablanca
+- Chinatown
+- Citizen Kane
+- Claire's Knee
+- Close Encounters of the Third Kind
+- Cool Hand Luke
+- Do the Right Thing
+- Double Indemnity
+- Dr. Strangelove
+- E.T.
+- Empire Strikes Back, The
+- English Patient, The
+- Exorcist, The
+- Fifth Element, The
+- Fish Called Wanda, A
+- Flashback
+- Forrest Gump
+- Four Weddings and a Funeral
+- Full Metal Jacket
+- Godfather, The
+- Godfather Part II, The
+- Goodfellas
+- Graduate, The
+- Grand Illusion
+- Groundhog Day
+- Hamlet
+- Hannah and Her Sisters
+- His Girl Friday
+- Jaws
+- JFK
+- Jurassic Park
+- Kramer vs. Kramer
+- Last Emperor, The
+- Last Seduction, The
+- Last Year at Marienbad
+- Little Big Man
+- M*A*S*H
+- Manhattan
+- Midnight Cowboy
+- Moulin Rouge
+- Network
+- On the Waterfront
+- Ordinary People
+- Persona
+- Psycho
+- Pulp Fiction
+- Raging Bull
+- Raiders of the Lost Ark
+- Rain Man
+- Reservoir Dogs
+- Rocky
+- Rosemary's Baby
+- Scarlet Letter, The
+- Schindler's List
+- Seven
+- Shine
+- Silence of the Lambs, The
+- Star Wars
+- Sunset Boulevard
+- Taxi Driver
+- Tender Mercies
+- Terminator 2
+- Thelma & Louise
+- They Shoot Horses, Don't They?
+- Through a Glass Darkly
+- Tightrope
+- To Die For
+- Tootsie
+- Top Hat
+- Total Recall
+- Trading Places
+- Trainspotting
+- Trans-Europe-Express
+- Treasure of the Sierra Madre, The
+- Twelve Angry Men
+- Twenty Bucks
+- Un Chien Andalou
+- Unbearable Lightness of Being, The
+- Unforgiven
+- Unmarried Woman, An
+- Usual Suspects, The
+- Verdict, The
+- Vertigo
+- Viridiana
+- Viva Zapata!
+- Wall Street
+- War of the Roses, The
+- Watership Down
+- Wayne's World
+- Wedding, A
+- Weekend
+- West Side Story
+- When Harry Met Sally
+- Whispers in the Dark
+- White Men Can't Jump
+- Who Framed Roger Rabbit
+- Wild Strawberries
+- Winter Light
+- Witches of Eastwick, The
+- Witness
+- Wizard of Oz, The
+- Yellow Submarine
+- Young Frankenstein
+- Z
+- Zed & Two Noughts, A
+- Zelig
+- Zero de Conduite
+
