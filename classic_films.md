@@ -18,13 +18,24 @@
 
 ### 하워드 혹스 (Howard Hawks)
 
-| 한글 제목 | 영문 제목 | 연도 | 링크 |
-|---------|---------|------|------|
-| [스카페이스](https://tv.naver.com/v/13975859) | Scarface | 1932 | NaverTV |
-| [바바리 코스트](https://youtu.be/01RaOZRbcGU?si=7KtEAAJP4vEXt02H) | Barbary Coast | 1935 | YouTube |
-| [그의 연인 프라이데이](https://tv.naver.com/v/9828941) | His Girl Friday | 1940 | NaverTV |
-| [빅 슬립 / 명탐정 필립](https://tv.naver.com/v/15917995) | The Big Sleep | 1946 | NaverTV |
-| [리오 브라보](https://tv.naver.com/v/19853833) | Rio Bravo | 1959 | NaverTV |
+| 한글 제목 | 영문 제목 | 연도 | 링크 | 비고 |
+|---------|---------|------|------|------|
+| [스카페이스](https://tv.naver.com/v/13975859) | Scarface | 1932 | NaverTV | |
+| [20세기](https://tv.naver.com/v/64316919) | Twentieth Century | 1934 | NaverTV | |
+| [바바리 코스트](https://youtu.be/01RaOZRbcGU?si=7KtEAAJP4vEXt02H) | Barbary Coast | 1935 | YouTube | |
+| [베이비 길들이기](https://tv.naver.com/v/18479139) | Bringing Up Baby | 1938 | NaverTV | |
+| [그의 연인 프라이데이](https://tv.naver.com/v/9828941) | His Girl Friday | 1940 | NaverTV | |
+| [요크 상사](https://tv.naver.com/v/20838988) | Sergeant York | 1941 | NaverTV | |
+| [볼 오브 파이어](https://tv.naver.com/v/54000140) | Ball of Fire | 1941 | NaverTV | |
+| [무법자](https://tv.naver.com/v/72311474) | The Outlaw | 1943 | NaverTV | 하워드 휴즈 연출, 혹스 부분 연출 |
+| [소유와 무소유](https://tv.naver.com/v/20281584) | To Have and Have Not | 1944 | NaverTV | |
+| [빅 슬립 / 명탐정 필립](https://tv.naver.com/v/15917995) | The Big Sleep | 1946 | NaverTV | |
+| [붉은 강](https://tv.naver.com/v/20756731) | Red River | 1948 | NaverTV | |
+| [나는 전쟁 신부](https://tv.naver.com/v/74973174) | I Was a Male War Bride | 1949 | NaverTV | |
+| [빅 스카이](https://tv.naver.com/v/44949609) | The Big Sky | 1952 | NaverTV | |
+| [몽키 비지니스](https://tv.naver.com/v/21639704) | Monkey Business | 1952 | NaverTV | |
+| [신사는 금발을 좋아한다](https://tv.naver.com/v/78119563) | Gentlemen Prefer Blondes | 1953 | NaverTV | |
+| [리오 브라보](https://tv.naver.com/v/19853833) | Rio Bravo | 1959 | NaverTV | |
 
 ### 알프레드 히치콕 (Alfred Hitchcock)
 
@@ -58,8 +69,6 @@
 
 | 한글 제목 | 영문 제목 | 스트리밍 플랫폼 |
 |---------|---------|--------------|
-| 요크 상사 | Sergeant York | Wavve |
-| 신사는 금발을 좋아한다 | Gentlemen Prefer Blondes | Wavve |
 | 괴물 (1951 오리지널) | The Thing from Another World | Watcha |
 | 엘도라도 | El Dorado | Apple TV (Paid) |
 
