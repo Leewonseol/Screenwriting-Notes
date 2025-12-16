@@ -18,7 +18,7 @@
 | [순례여행](https://tv.naver.com/v/43936156) | Pilgrimage | 1933 | NaverTV |
 | [프리스트 판사](https://tv.naver.com/v/82503928) | Judge Priest | 1934 | NaverTV |
 | [굽이도는 증기선](https://tv.naver.com/v/68725718) | Steamboat Round the Bend | 1935 | NaverTV |
-| [항간의 화제](https://tv.naver.com/v/75764711) | Steamboat Round the Bend | 1935 | NaverTV |
+| [항간의 화제](https://tv.naver.com/v/75764711) | The Whole Town's Talking | 1935 | NaverTV |
 | [샤크섬의 죄수](https://tv.naver.com/v/71798422) | The Prisoner of Shark Island | 1936 | NaverTV |
 | [모호크족의 북소리](https://tv.naver.com/v/36970983) | Drums Along the Mohawk | 1939 | NaverTV |
 | [역마차](https://tv.naver.com/v/9716093) | Stagecoach | 1939 | NaverTV |
