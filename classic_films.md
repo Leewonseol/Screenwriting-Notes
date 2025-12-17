@@ -67,7 +67,6 @@
 | [리오 브라보](https://tv.naver.com/v/19853833) | Rio Bravo | 1959 | NaverTV | |
 
 ### 알프레드 히치콕 (Alfred Hitchcock)
-
 | 한글 제목 | 영문 제목 | 연도 | 링크 |
 |---------|---------|------|------|
 | [39계단](https://youtu.be/jfVtoPN3BVk?si=tb3cxzLiL3L7wfK1) | The 39 Steps | 1935 | YouTube |
@@ -78,9 +77,13 @@
 | [오명](https://tv.naver.com/v/19068753) | Notorious | 1946 | NaverTV, [YouTube](https://youtu.be/JG3XiUf9Pdg?si=VJSHrUENZG5ZKEXM) |
 | [다이얼 M을 돌려라](https://tv.naver.com/v/9854480) | Dial M for Murder | 1954 | NaverTV |
 | [이창](https://tv.naver.com/v/9868321) | Rear Window | 1954 | NaverTV |
+| [해리의 소동](https://tv.naver.com/v/11497932) | The Trouble with Harry | 1955 | NaverTV |
+| [나는 비밀을 알고 있다](https://tv.naver.com/v/18839569) | The Man Who Knew Too Much | 1956 | NaverTV |
+| [누명 쓴 사나이](https://tv.naver.com/v/47955861) | The Wrong Man | 1956 | NaverTV |
 | [현기증](https://tv.naver.com/v/14502683) | Vertigo | 1958 | NaverTV |
 | [북북서로 진로를 돌려라](https://tv.naver.com/v/14446689) | North by Northwest | 1959 | NaverTV |
 | [싸이코](https://tv.naver.com/v/11572462) | Psycho | 1960 | NaverTV |
+
 
 ## 스트리밍 플랫폼 메타만 있는 영화 (링크 없음)
 
