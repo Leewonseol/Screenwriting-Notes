@@ -98,10 +98,7 @@
 
 | 한글 제목 | 영문 제목 | 스트리밍 플랫폼 |
 |---------|---------|--------------|
-| 나는 비밀을 알고 있다 | Spellbound | Watcha |
-| 나는 결백하다 | I Confess | Watcha, Apple TV (Paid) |
-| 누명쓴 사나이 | The Wrong Man | Watcha, Wavve |
 | 파괴공작원 | Saboteur | Watcha |
 | 가스등 | Gaslight | Watcha, Wavve |
 | 구명보트 | Lifeboat | Watcha |
-| 해리의 소동 | The Trouble with Harry | Watcha |
+
