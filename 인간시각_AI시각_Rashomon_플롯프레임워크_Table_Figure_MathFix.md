@@ -19,7 +19,7 @@ flowchart LR
 
 ### 핵심
 
-\[
+$$
 Z
 \rightarrow
 Observation
@@ -29,7 +29,7 @@ Reconstruction
 Interpretation
 \rightarrow
 Action
-\]
+$$
 
 영화는 `Z`를 직접 공개하지 않는다.
 
@@ -79,13 +79,13 @@ vs.
 
 ### 원칙
 
-\[
+$$
 Local\ cue
 \neq
 Global\ cue
 \neq
 Temporal\ cue
-\]
+$$
 
 서로 다른 cue가 **서로 다른 답을 지지하도록 사건 자체를 설계한다.**
 
@@ -128,7 +128,7 @@ flowchart TD
 
 ## 캐릭터 공식
 
-\[
+$$
 욕망
 \rightarrow
 주의
@@ -140,7 +140,7 @@ flowchart TD
 증언
 \rightarrow
 행동
-\]
+$$
 
 **feature를 먼저 인물에게 할당하지 않는다.**
 
@@ -173,13 +173,13 @@ flowchart TD
 
 ### 핵심
 
-\[
+$$
 Observed\ event
 \neq
 Remembered\ event
 \neq
 Testimony
-\]
+$$
 
 ---
 
@@ -201,19 +201,19 @@ Testimony
 
 ## 핵심 원칙
 
-\[
+$$
 Projection_A(Z)
 \neq
 Projection_B(Z)
 \neq
 Projection_C(Z)
-\]
+$$
 
 그러나
 
-\[
+$$
 Camera_A,\ Camera_B,\ Camera_C
-\]
+$$
 
 는 **모두 정상**이다.
 
@@ -291,7 +291,7 @@ Camera_A,\ Camera_B,\ Camera_C
 
 ### 핵심 관계
 
-\[
+$$
 Z
 \neq
 Raw\ Video
@@ -301,7 +301,7 @@ Selected\ Clip
 Event\ Unit
 \neq
 Model\ Input
-\]
+$$
 
 ---
 
@@ -333,7 +333,7 @@ Camera / Source
 
 즉,
 
-\[
+$$
 Inference
 \leftarrow
 Input
@@ -343,7 +343,7 @@ Reconstruction
 Time
 \leftarrow
 Source
-\]
+$$
 
 Chronos Core는 영화 소재가 아니라 **후반부 증거 역추적 방법론**이다.
 
@@ -401,13 +401,13 @@ CUE ANALYSIS / INTERVENTION
 
 ### 관계
 
-\[
+$$
 Underspecification
 \rightarrow
 Predictive\ Multiplicity
 \rightarrow
 Cue\ Analysis
-\]
+$$
 
 ---
 
@@ -566,7 +566,7 @@ Saliency map을
 
 반드시:
 
-\[
+$$
 욕망
 \rightarrow
 행동
@@ -574,7 +574,7 @@ Saliency map을
 관계
 \rightarrow
 사건
-\]
+$$
 
 으로 변환해야 한다.
 
