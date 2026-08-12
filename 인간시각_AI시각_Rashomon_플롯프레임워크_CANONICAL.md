@@ -5,16 +5,23 @@
 
 # Figure 1. 작품의 최상위 인식 구조
 
-```mermaid
-flowchart LR
-    Z["Z<br>Latent World State<br>실제로 일어난 사건"]
-
-    Z --> O["Observation<br>관측"]
-    O --> R["Reconstruction<br>재구성"]
-    R --> I["Interpretation<br>해석/추론"]
-    I --> A["Action<br>행동"]
-
-    A --> E["Relationship / Event<br>관계 변화·후속 사건"]
+```text
+[ Z: Latent World State / 실제로 일어난 사건 ]
+                    │
+                    ▼
+           [ Observation / 관측 ]
+                    │
+                    ▼
+       [ Reconstruction / 재구성 ]
+                    │
+                    ▼
+     [ Interpretation / 해석·추론 ]
+                    │
+                    ▼
+             [ Action / 행동 ]
+                    │
+                    ▼
+ [ Relationship / Event / 관계 변화·후속 사건 ]
 ```
 
 ### 핵심
@@ -93,24 +100,17 @@ $$
 
 # Figure 3. 인간 4인의 Rashomon 구조
 
-```mermaid
-flowchart TD
-    Z["동일 사건 Z"]
-
-    Z --> H1["H1<br>관점 A"]
-    Z --> H2["H2<br>관점 B"]
-    Z --> H3["H3<br>관점 C"]
-    Z --> H4["H4<br>관점 D"]
-
-    H1 --> T1["증언 A"]
-    H2 --> T2["증언 B"]
-    H3 --> T3["증언 C"]
-    H4 --> T4["증언 D"]
-
-    T1 --> C["충돌"]
-    T2 --> C
-    T3 --> C
-    T4 --> C
+```text
+                     [ 동일 사건 Z ]
+               ┌────────┼────────┬────────┐
+               ▼        ▼        ▼        ▼
+            [ H1 ]    [ H2 ]   [ H3 ]   [ H4 ]
+               │        │        │        │
+               ▼        ▼        ▼        ▼
+           [증언 A]  [증언 B]  [증언 C]  [증언 D]
+               └────────┴────┬───┴────────┘
+                            ▼
+                          [ 충돌 ]
 ```
 
 ---
@@ -129,17 +129,17 @@ flowchart TD
 ## 캐릭터 공식
 
 $$
-욕망
+\text{욕망}
 \rightarrow
-주의
+\text{주의}
 \rightarrow
-관측
+\text{관측}
 \rightarrow
-기억
+\text{기억}
 \rightarrow
-증언
+\text{증언}
 \rightarrow
-행동
+\text{행동}
 $$
 
 **feature를 먼저 인물에게 할당하지 않는다.**
@@ -351,17 +351,14 @@ Chronos Core는 영화 소재가 아니라 **후반부 증거 역추적 방법�
 
 # Figure 8. AI 모델 다원성 구조
 
-```mermaid
-flowchart TD
-    X["동일한 reconstructed input X"]
-
-    X --> MA["Model A"]
-    X --> MB["Model B"]
-    X --> MC["Model C"]
-
-    MA --> PA["ASSAULT"]
-    MB --> PB["RESCUE"]
-    MC --> PC["UNCERTAIN"]
+```text
+      [ 동일한 reconstructed input X ]
+          ┌────────┼────────┐
+          ▼        ▼        ▼
+       [ M_A ]   [ M_B ]   [ M_C ]
+          │        │        │
+          ▼        ▼        ▼
+      ASSAULT    RESCUE   UNCERTAIN
 ```
 
 ---
@@ -567,13 +564,13 @@ Saliency map을
 반드시:
 
 $$
-욕망
+\text{욕망}
 \rightarrow
-행동
+\text{행동}
 \rightarrow
-관계
+\text{관계}
 \rightarrow
-사건
+\text{사건}
 $$
 
 으로 변환해야 한다.
