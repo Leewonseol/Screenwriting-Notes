@@ -2,105 +2,401 @@
 
 ## Title
 
-- 2001: A Space Odyssey
 - Accidental Tourist, The
+- Adam's Rib
+- Addicted to Love
 - After Hours
+- Airplane
+- Alice Doesn't Live Here Anymore
+- Alice in Wonderland
 - Alien
 - Aliens
 - Alive
 - All That Jazz
 - Amadeus
+- Amarcord
+- And Justice for All
+- Angel Heart
+- Animal Farm
 - Animal House
 - Annie Hall
 - Apocalypse Now
 - Arachnophobia
+- Babe
+- Babette's Feast
+- Baby Boom
+- Bad & the Beautiful, The
 - Bad Day at Black Rock
 - Bad Timing
 - Bambi
+- Barry Lyndon
+- Barton Fink
+- Basic Instinct
+- Battle of Algiers
 - Battleship Potemkin, The
 - Being There
+- Ben Hur
+- Betrayal
+- Betty Blue
+- Big
+- Big Wednesday
 - Big Sleep, The
+- Billy Budd
+- Birds, The
 - Black Widow
 - Blade Runner, The
 - Blazing Saddles
+- Blind Date
 - Blood of the Poet
-- Blow-Up
+- Blow Up
 - Blue Velvet
+- Bob Roberts
 - Body Heat
 - Bonfire of the Vanities, The
+- Bram Stoker's Dracula
 - Brazil
 - Breakfast Club, The
 - Breathless
 - Bridge on the River Kwai, The
-- Bridges of Madison County, The
+- Bridges of Madison County
+- Brief Encounter
 - Bringing Up Baby
 - Bull Durham
+- Bullets Over Broadway
 - Cabinet of Dr. Caligari, The
+- Camp Nowhere
 - Cape Fear
+- Carnal Knowledge
 - Casablanca
+- Chariots of Fire
+- Chien Andalou, Un
 - Chinatown
+- Choose Me
+- Chungking Express
 - Citizen Kane
 - Claire's Knee
-- Close Encounters of the Third Kind
+- Clean and Sober
+- Clowns
+- Coming Home
+- Conversation, The
+- Cook, the Thief, His Wife & Her Lover, The
 - Cool Hand Luke
+- Cop
+- Crimes and Misdemeanors
+- Crying Game, The
+- Dance with a Stranger
+- Dances with Wolves
+- Dangerous Liaisons
+- David and Lisa
+- Dead Ringers
+- Death by Hanging
+- Death in Venice
+- Death Wish
+- Deer Hunter, The
+- Die Hard
+- Diner
+- Dirty Dozen, The
+- Dirty Harry
+- Discreet Charm of the Bourgeoisie
 - Do the Right Thing
-- Double Indemnity
+- Doctor, The
+- Dominick and Eugene
+- Dona Flor and Her Two Husbands
 - Dr. Strangelove
-- E.T.
+- Dracula
+- Drugstore Cowboy
+- Earthquake
+- Eat Drink Man Woman
+- 8 1/2
+- Electric Horseman, The
+- Elephant Man, The
+- Elephant Walk
 - Empire Strikes Back, The
 - English Patient, The
-- Exorcist, The
+- Equus
+- E.T.
+- Everybody Says I Love You
+- Evita
+- Fabulous Baker Boys, The
+- Faces
+- Falling Down
+- Falling in Love
+- Farewell My Concubine
+- Farewell, My Lovely
 - Fifth Element, The
+- First Blood
+- First Deadly Sin, The
 - Fish Called Wanda, A
-- Flashback
-- Forrest Gump
+- Fisher King, The
+- Five Easy Pieces
+- Flight of the Phoenix
+- Forced Entry
+- 400 Blows, The
 - Four Weddings and a Funeral
+- Fugitive, The
 - Full Metal Jacket
+- Ghost
+- Ghostbusters
+- Glengarry Glen Ross
+- Glory
 - Godfather, The
-- Godfather Part II, The
-- Goodfellas
+- Godfather: The Part II
+- Going in Style
+- Gold Rush, The
+- Good Son, The
 - Graduate, The
+- Grand Canyon
+- Grand Hotel
 - Grand Illusion
+- Great Gatsby, The
+- Great Train Robbery, The
+- Greed
+- Gross Pointe Blank
 - Groundhog Day
-- Hamlet
+- Hamburger Hill
+- Hand That Rocks the Cradle, The
 - Hannah and Her Sisters
+- Harold and Maud
+- High Hopes
 - His Girl Friday
+- Hope and Glory
+- Hospital
+- Hour of the Wolf
+- Hurricane
+- Husbands
+- Husbands and Wives
+- Hustler, The
+- I Never Promised You a Rose Garden
+- I Vitoni
+- Il Postino
+- In-Laws, The
+- In the Heat of the Night
+- In the Realm of the Senses
+- Interview with a Vampire
+- Intolerance
+- Isadora
 - Jaws
+- Jerry Maguire
+- Jesus of Montreal
 - JFK
+- John and Mary
+- Joy Luck Club, The
+- Ju Dou
 - Jurassic Park
+- Kid, The
+- Kiss of the Spider Woman
+- Koyaanisqatsi
 - Kramer vs. Kramer
+- La Dolce Vita
+- La Notte
+- La Promesse
+- La Strada
+- Lady Eve, The
+- Last Days of Pompeii, The
 - Last Emperor, The
 - Last Seduction, The
 - Last Year at Marienbad
+- Le Feu Follet
+- League of Their Own, A
+- Leaving Las Vegas
+- L'Eclisse
+- Lenny
+- Lethal Weapon
+- Like Water for Chocolate
+- Lion King, The
 - Little Big Man
-- M*A*S*H
+- Little Mermaid, The
+- Little Shop of Horrors
+- Lone Star
+- Loneliness of the Long Distance Runner, The
+- Looks and Smiles
+- Lord Jim
+- Lost Highway
+- Love Serenade
+- Love Story
+- Loved One, The
+- M
+- Maltese Falcon, The
+- Man Bites Dog
+- Man Who Would Be King, The
+- Manchurian Candidate, The
 - Manhattan
+- Manhunter
+- Mark, The
+- Marty
+- M*A*S*H
+- Mean Streets
+- Men in Black
+- Mephisto
+- Meshes of the Afternoon
+- Michael Collins
 - Midnight Cowboy
+- Mike's Murder
+- Misfits, The
+- Missing
+- Modern Times
+- Mogambo
+- Moment by Moment
+- Monty Python and the Holy Grail
+- Moonstruck
+- Morning After, The
 - Moulin Rouge
+- Mr. Smith Goes to Washington
+- Mrs. Parker and the Vicious Circle
+- Mrs. Soffel
+- Muriel's Wedding
+- Music Room, The
+- My Best Friend's Wedding
+- My Dinner with Andre
+- My Favorite Season
+- My Man Godfrey
+- Naked
+- Naked Gun
+- Naked Lunch
+- Nanook of the North
+- Nashville
+- Nasty Habits
 - Network
+- Night and Fog
+- Night at the Opera, A
+- Nightporter, The
+- 1984
+- Nixon
+- North Dallas Forty
+- Officer and a Gentleman, An
+- Oh! What a Lovely War
+- Old Man and the Sea, The
 - On the Waterfront
 - Ordinary People
+- Out of Africa
+- Outbreak
+- Paisan
+- Paper Chase, The
+- Parenthood
+- Paris, Texas
+- Pascali's Island
+- Passion de Jeanne D'Arc, La
+- Passion Fish
+- Pat and Mike
+- Paths of Glory
+- Pelle the Conqueror
+- People vs. Larry Flint, The
 - Persona
+- Phantom of Liberty
+- Piano, The
+- Player, The
+- Police Academy
+- Poseidon Adventure, The
+- Posse
+- Postcards from the Edge
+- Postman Always Rings Twice, The
+- Prizzi's Honor
+- Producers, The
+- Private Benjamin
 - Psycho
 - Pulp Fiction
+- Q & A
+- Quartet
+- Quest for Fire
+- Quiz Show
 - Raging Bull
 - Raiders of the Lost Ark
+- Rain
 - Rain Man
+- Rainmaker, The
+- Rambo
+- Rashomon
+- Red
+- Red Desert, The
+- Regarding Henry
+- Remains of the Day
 - Reservoir Dogs
+- Return of the Jedi
+- Reversal of Fortune
+- Risky Business
+- River Runs Through It, A
+- River, The
+- Road to Morocco
+- Road Warrior, The
+- Robocop
 - Rocky
+- Rocky IV
+- Roma
+- Romy and Michele's High School Reunion
+- Room With a View, A
+- Rose, The
 - Rosemary's Baby
+- Ruling Class, The
+- Running, Jumping, and Standing Still Film, The
+- Running on Empty
+- Ruthless People
+- Sacrifice, The
+- Salvador
+- Saturday Night Fever
 - Scarlet Letter, The
+- Scent of Green Papaya, The
 - Schindler's List
+- Scott of the Antarctic
+- Sea of Love
+- Serpico
 - Seven
+- Seven Samurai, The
+- Seventh Seal, The
+- Shall We Dance
+- Sheltering Sky, The
 - Shine
+- Shining, The
+- Ship of Fools
+- Shortcuts
+- Shot in the Dark, A
 - Silence of the Lambs, The
+- Silence, The
+- Single White Female
+- Sleeping with the Enemy
+- Sleepless in Seattle
+- Sling Blade
+- Snake Pit, The
+- Snow White and the Three Stooges
+- Solaris
+- Somebody Up There Likes Me
+- Somewhere in Time
+- Sound of Music, The
+- Spartacus
+- Speed
+- Stand by Me
+- Star '80
 - Star Wars
+- Steel Magnolias
+- Stolen Children
+- Storm Over Asia
+- Stranger Than Paradise
+- Strangers in Paradise
+- Strangers When We Meet
+- Straw Dogs
+- Streetcar Named Desire, A
+- Stripes
+- Sudden Impact
+- Sullivan's Travels
+- Sunrise
 - Sunset Boulevard
+- Superman
+- Sweet Smell of Success, The
+- Swimmer, The
+- Sword in the Stone, The
+- Sybil
 - Taxi Driver
+- 10
+- Tenant, The
 - Tender Mercies
-- Terminator 2
+- Terminator
+- Terms of Endearment
+- Testament
+- That Obscure Object of Desire
 - Thelma & Louise
 - They Shoot Horses, Don't They?
+- This is Spinal Tap
+- Three Faces of Eve, The
+- 3 Women
 - Through a Glass Darkly
 - Tightrope
 - To Die For
@@ -109,11 +405,12 @@
 - Total Recall
 - Trading Places
 - Trainspotting
-- Trans-Europe-Express
+- Trans-Europ-Express
 - Treasure of the Sierra Madre, The
 - Twelve Angry Men
 - Twenty Bucks
-- Un Chien Andalou
+- 2001: A Space Odyssey
+- Umberto D.
 - Unbearable Lightness of Being, The
 - Unforgiven
 - Unmarried Woman, An
@@ -129,19 +426,18 @@
 - Wedding, A
 - Weekend
 - West Side Story
+- Wild Strawberries
 - When Harry Met Sally
 - Whispers in the Dark
 - White Men Can't Jump
 - Who Framed Roger Rabbit
-- Wild Strawberries
 - Winter Light
 - Witches of Eastwick, The
 - Witness
 - Wizard of Oz, The
-- Yellow Submarine
+- Yellow Submarine, The
 - Young Frankenstein
-- Z
+- Young Mr. Lincoln
 - Zed & Two Noughts, A
 - Zelig
 - Zero de Conduite
-
